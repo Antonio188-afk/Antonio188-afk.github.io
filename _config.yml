@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Antonio Cardebas Profolio / Site Title"
 title_separator          : "-"
 name                     : &name "Antonio Cardenas"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Your Name's academic portfolio"   # I am a high school student who wants to show people my projects and what I've done here at Richland High School 
 url                      :  "https://Antonio188-afk.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
