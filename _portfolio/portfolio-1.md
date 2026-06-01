@@ -1,6 +1,6 @@
 ---
 title: "Ethernet cable"
-excerpt: "Create an ethernet cable <br/><img src='/images/500x300.png'>"
+excerpt: "Create an ethernet cable <br/><img src='/images/download.jpg'>"
 collection: portfolio
 ---
 
