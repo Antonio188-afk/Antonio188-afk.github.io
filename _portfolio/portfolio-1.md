@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ethernet cable"
+excerpt: "Create an ethernet cable <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I worked on making my very own Ethernet cable in class by myself. My teacher was there, supervising and watching over us to make sure we all did it right, and even though not everyone did, I got it right on the first try! Overall, doing this project taught me some patience because we had to feed wire through small holes to make it work, and taught me how to make an Ethernet cable. Now I can use this project for future help one day.  
