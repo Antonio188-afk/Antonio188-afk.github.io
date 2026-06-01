@@ -1,6 +1,6 @@
 ---
 title: "Posters"
-excerpt: "Create a Poster <br/><img src='/images/Ss.png'>"
+excerpt: "Create a Poster <br/><img src='/Poster.jpg'>"
 collection: portfolio
 ---
 
