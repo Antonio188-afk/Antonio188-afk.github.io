@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Antonio!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -24,11 +24,11 @@ repository               : "Antonio188-afk.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Antonio"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a high school student who is trying to become a young leader and I am doing anything and everything to do as"
+  location         : "Richland, WA"
+  employer         : "RHS"
   uri              : # URL
   email            : "Antoniocar44@icloud.com" 
 
